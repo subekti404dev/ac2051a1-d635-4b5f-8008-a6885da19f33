@@ -25,46 +25,51 @@
   ],
   "educations": [
     {
-      "school": "University School of the Arts",
-      "timeline": "2007 — 2009",
-      "description": "emo enims ipsam voluptatem, blanditiis praesentium voluptum \ndelenit atque corrupti, quos dolores et quas molestias exceptur."
+      "school": "Mathematic, Education University of Indonesia (UPI).",
+      "timeline": "2013 – 2017",
+      "description": ""
     },
     {
-      "school": "University School of the Arts",
-      "timeline": "2007 — 2009",
-      "description": "emo enims ipsam voluptatem, blanditiis praesentium voluptum \ndelenit atque corrupti, quos dolores et quas molestias exceptur."
+      "school": "State Senior High School 1, Patimuan",
+      "timeline": "2009 — 2012",
+      "description": ""
     },
     {
-      "school": "University School of the Arts",
-      "timeline": "2007 — 2009",
-      "description": "emo enims ipsam voluptatem, blanditiis praesentium voluptum \ndelenit atque corrupti, quos dolores et quas molestias exceptur."
+      "school": "State Junior High School 1, Patimuan",
+      "timeline": "2006 — 2009",
+      "description": ""
     },
     {
-      "school": "University School of the Arts",
-      "timeline": "2007 — 2009",
-      "description": "emo enims ipsam voluptatem, blanditiis praesentium voluptum \ndelenit atque corrupti, quos dolores et quas molestias exceptur."
+      "school": "State Elementary School 2, Cinyawang",
+      "timeline": "2000 — 2006",
+      "description": ""
     }
   ],
   "experiences": [
     {
-      "school": "University School of the Arts",
-      "timeline": "2007 — 2009",
-      "description": "emo enims ipsam voluptatem, blanditiis praesentium voluptum \ndelenit atque corrupti, quos dolores et quas molestias exceptur."
+      "school": "eFishery",
+      "timeline": "2021 June – Now",
+      "description": "Working in B2C team as a Fullstack Developer"
     },
     {
-      "school": "University School of the Arts",
-      "timeline": "2007 — 2009",
-      "description": "emo enims ipsam voluptatem, blanditiis praesentium voluptum \ndelenit atque corrupti, quos dolores et quas molestias exceptur."
+      "school": "Luna POS",
+      "timeline": "2018 March – 2021 June",
+      "description": "After three months I was transferred to Luna POS, a startup held by the same CTO as Clodeo as a full-stack developer. I and my team built it from scratch."
     },
     {
-      "school": "University School of the Arts",
-      "timeline": "2007 — 2009",
-      "description": "emo enims ipsam voluptatem, blanditiis praesentium voluptum \ndelenit atque corrupti, quos dolores et quas molestias exceptur."
+      "school": "Clodeo",
+      "timeline": "2017 December – 2018 March",
+      "description": "Work in a team as a frontend web developer and we use Angular Framework to build the clodeo web app."
     },
     {
-      "school": "University School of the Arts",
-      "timeline": "2007 — 2009",
-      "description": "emo enims ipsam voluptatem, blanditiis praesentium voluptum \ndelenit atque corrupti, quos dolores et quas molestias exceptur."
+      "school": "Freelancer Web Developer",
+      "timeline": "2016 — 2017",
+      "description": "Before graduating, while spending my spare time I worked part-time as a full stack web developer"
+    },
+    {
+      "school": "Computer Laboratory Assistant, Mathematic Department, Education University of Indonesia (UPI)",
+      "timeline": "2015 — 2017",
+      "description": "Besides helping students in practicum. I also built several web-based applications including library information systems, alumnus information systems, and books lending systems. All of them, I build using PHP with CodeIgniter Framework."
     }
   ],
   "skills": [
